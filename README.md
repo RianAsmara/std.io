@@ -1,4 +1,4 @@
-![alt text](std.io/assets/img/New Logo.svg)
+![alt text](https://github.com/RianAsmara/std.io/blob/master/assets/img/New%20Logo.svg/)
         
       
 
