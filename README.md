@@ -1,3 +1,6 @@
+![alt text](http://url/to/img.png)
+
+
 # std.io
 
 **Personal Portfolio Website**
